@@ -2,10 +2,6 @@ Day-03[17-11-2023]:
 ===================
 	Good Afternoon All..
 
-
-	IDE => Intergrated Development Environment => Combination of Editor + Interpreter
-	IDLE => Integrated Development for Learning Environment => Python Installation
-
 	Advanced Editors:
 	=================
 	> To execute python files we can use Advanced Editors such as Geany,sublime,atom,editplus and Notepad++, etc.,
@@ -15,8 +11,6 @@ Day-03[17-11-2023]:
 
 	IDLE:
 	=====
-	IDLE -> Integrated Development Learning Environment
-	IDE -> Integrated Development Environment
 	> IDLE can be installed by default while installing the python software
 	> Here we can execute the python code in 2 ways they are
 		=> Scripting [Permanent way by storing the code in a file]
