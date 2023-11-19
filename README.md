@@ -13,3 +13,7 @@ Python Basics for 3rd years
   - Python Execution ways(completed advanced editor,idle and jupyter notebook)
   - Pip Version check,upgrade of it
   - Installation of jupyter notebook and running of it
+
+## Day-04(18-11-2023):
+  - Jupyter Notebook Overview
+  - Markdown format with sample example on it
