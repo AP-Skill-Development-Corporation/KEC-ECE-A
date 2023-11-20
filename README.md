@@ -17,3 +17,8 @@ Python Basics for 3rd years
 ## Day-04(18-11-2023):
   - Jupyter Notebook Overview
   - Markdown format with sample example on it
+
+## Day-05(20-11-2023):
+  - Markdown Format with sample examples on it
+  - Variables,different ways of Assignments
+  - Operators
