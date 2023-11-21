@@ -22,3 +22,7 @@ Python Basics for 3rd years
   - Markdown Format with sample examples on it
   - Variables,different ways of Assignments
   - Operators
+
+## Day-06(21-11-2023):
+  - Operators with sample example on each
+  - Data types and type with sample example on it
