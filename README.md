@@ -26,3 +26,7 @@ Python Basics for 3rd years
 ## Day-06(21-11-2023):
   - Operators with sample example on each
   - Data types and type with sample example on it
+
+## Day-07(22-11-2023):
+  - Input and Output Formatting with sample examples on each
+  - Typecasting Overview
