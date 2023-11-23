@@ -30,3 +30,8 @@ Python Basics for 3rd years
 ## Day-07(22-11-2023):
   - Input and Output Formatting with sample examples on each
   - Typecasting Overview
+
+## Day-08(23-11-2023):
+  - Typecasting with sample examples on each
+  - Conditional Statements Overview
+  - if sample examples on it
