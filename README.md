@@ -35,3 +35,6 @@ Python Basics for 3rd years
   - Typecasting with sample examples on each
   - Conditional Statements Overview
   - if sample examples on it
+
+## Day-09(24-11-2023):
+  - if-else and nested if with sample example on it
